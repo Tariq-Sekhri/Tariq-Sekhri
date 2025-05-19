@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Tariq Sekhri</h1>
+--><h1 align="center">Hi 👋, I'm Tariq Sekhri</h1>
 <h3 align="center">Computer Programming Student at Sheridan</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="mailto:tariqsekhri@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
   </a>
 </p>
 
